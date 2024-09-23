@@ -1,0 +1,11 @@
+Tempo da rodada 1: 5484 ms
+Tempo da rodada 2: 4118 ms
+Tempo da rodada 3: 4030 ms
+Tempo da rodada 4: 4449 ms
+Tempo da rodada 5: 4329 ms
+Tempo da rodada 6: 5614 ms
+Tempo da rodada 7: 4965 ms
+Tempo da rodada 8: 5888 ms
+Tempo da rodada 9: 5008 ms
+Tempo da rodada 10: 5479 ms
+Tempo medio de execucao: 4936 ms
